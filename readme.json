@@ -1,0 +1,8 @@
+{
+	author: 'jarjune',
+	sourceURL: 'https://github.com/jarjune/canvas',
+	canvasList: [{
+		name: '流程图',
+		siteURL: 'http://blog.jarjune.com/canvas/'
+	}]
+}
